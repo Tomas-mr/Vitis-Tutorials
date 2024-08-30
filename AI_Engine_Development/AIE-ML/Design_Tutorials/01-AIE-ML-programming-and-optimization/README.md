@@ -60,10 +60,10 @@ The various memory levels contains DMAs used to receive/transfer data to/from me
 
 Matrix multiplication is very common algorithm that can be found in numerous standard applications. The basic equation is:
 
-```
+
 $$ C = A.B $$
 $$ \left( c_{ij} \right)_{\substack{0\leq i \lt M \\ 0 \leq j \lt N}}  =  \sum_{k=0}^{k<K} a_{ik}.b_{kj}$$
-```
+
 
 ![Matrix Multiplication](images/MatrixMult.png)
 
